@@ -1,10 +1,17 @@
 // msp430 single line assembler
 
+// convert emulated instruction to its actual equivalent
 function getActualInstructionFromEmulated(emulatedInstr)
 {
 	var instr = '';
 
 	
+}
+
+// return true if the instruction is emulated
+function isEmulatedInstruction(instr)
+{
+
 }
 
 function getInstructionType(opcode)
