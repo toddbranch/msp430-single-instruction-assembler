@@ -1,0 +1,4 @@
+Figure out how to parse addressing modes.
+	- Regular expressions?
+
+For unknown offsets, maybe just write the word "offset".
